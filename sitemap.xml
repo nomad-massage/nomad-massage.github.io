@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.nomad-massage.com/categories/</loc>
+    <loc>https://www.nomad-massage.com/first-page/</loc>
+    <lastmod>2019-03-26T07:47:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nomad-massage.com/</loc>
+    <loc>https://www.nomad-massage.com/</loc>
+    <lastmod>2019-03-26T07:47:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nomad-massage.com/tags/</loc>
+    <loc>https://www.nomad-massage.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.nomad-massage.com/tags/</loc>
   </url>
   
 </urlset>
