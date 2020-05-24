@@ -3,35 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.nomad-massage.com/about/</loc>
+    <loc>https://www.nomad-massage.com/#about</loc>
+  </url>
+   
+  <url>
+    <loc>https://www.nomad-massage.com/#contact</loc>
   </url>
   
   <url>
-    <loc>https://www.nomad-massage.com/categories/</loc>
+    <loc>https://www.nomad-massage.com/#faq</loc>
   </url>
   
   <url>
-    <loc>https://www.nomad-massage.com/contact/</loc>
+    <loc>https://www.nomad-massage.com/<loc>
   </url>
   
   <url>
-    <loc>https://www.nomad-massage.com/faq/</loc>
+    <loc>https://www.nomad-massage.com/#pricing</loc>
   </url>
   
   <url>
-    <loc>https://www.nomad-massage.com/</loc>
+    <loc>https://www.nomad-massage.com/#services</loc>
   </url>
   
   <url>
-    <loc>https://www.nomad-massage.com/pricing/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.nomad-massage.com/services/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.nomad-massage.com/tags/</loc>
+    <loc>https://www.nomad-massage.com/#tags</loc>
   </url>
   
 </urlset>
